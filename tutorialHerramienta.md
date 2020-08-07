@@ -8,15 +8,15 @@ Bienvenido a la herramienta para obtener las métricas de cuentas de Instagram d
 
 ### Pasos para utilizar la herramienta
 1. Accede a la aplicación que creaste a través de https://developers.facebook.com/apps/
-![](fotosHerramientaInstagram/paso8-accederALaApp.png)
+![](https://i.ibb.co/SNtyyvY/paso8-acceder-ALa-App.png)
 2. Copia el ID de Cliente y la Llave secreta del cliente, que podrás obtener al hacer click en Configuración Básica de la aplicación que generaste en https://developers.facebook.com/apps/
-![](fotosHerramientaInstagram/paso9-copiarIdYClave.png)
+![](https://i.ibb.co/yfqyCTt/paso9-copiar-Id-YClave.png)
 3. Llena los siguientes campos con los valores copiados del cliente.
 4. Abre la página para las [Herramientas del API de Grafo de Facebook](https://developers.facebook.com/tools/explorer)
 5. Selecciona Obtener Token de Acceso de Usuario siguiendo los pasos de la foto.
-![](fotosHerramientaInstagram/paso5-comienzoTokenDeAcceso.png)
+![](https://i.ibb.co/t2CF0vZ/paso5-comienzo-Token-De-Acceso.png)
 6. Confirma el acceso de Facebook 
-![](fotosHerramientaInstagram/paso6-confirmarAcceso.png)
+![](https://i.ibb.co/nMnv54X/paso6-confirmar-Acceso.png)
 7. Agrega los siguientes permisos para que la herramienta pueda utilizar acceder a la información de la cuenta de Instagram:  
     - instagram_basic
     - instagram_manage_comments
@@ -24,7 +24,7 @@ Bienvenido a la herramienta para obtener las métricas de cuentas de Instagram d
     - pages_read_engagement
     - pages_show_list
 8. Genera el código (válido por 1 hora) haciendo click en Generate Access Token y acepta los permisos de Facebook.
-![](fotosHerramientaInstagram/paso7-generarCodigoDeAcceso.png)
+![](https://i.ibb.co/2jH9fz3/paso7-generar-Codigo-De-Acceso.png)
 9. Copia el token de acceso y llene el siguiente campo con el código entre comillas. Habrán numerales que indicarán instrucciones dentro del código. Después, presiona SHIFT+Enter en la casilla.
 10. Prueba la conexión ejecutando la siguiente celda
 11. Ingresa el nombre de la página de Facebook asociada con la cuenta de Instagram
@@ -39,19 +39,19 @@ Bienvenido a la herramienta para obtener las métricas de cuentas de Instagram d
 
 ### ¿Cómo me registro en Facebook Developers y creo mi aplicación?
 1. Haz click en Empezar 
-![](fotosHerramientaInstagram/paso0-iniciarRegistro.png)
+![](https://i.ibb.co/NnLGPb0/paso0-iniciar-Registro.png)
 2. Verifica que la información en pantalla es la de la cuenta de Facebook asociada al instagram del que quieres obtener las métricas. Luego, haz click en Siguiente.
-![](fotosHerramientaInstagram/paso1-aceptarFB.png)
+![](https://i.ibb.co/JsrKGMV/paso1-aceptar-FB.png)
 3. Rellena cómo usarás la plataforma. En nuestro caso "Anunciante o Especialista de Marketing"
-![](fotosHerramientaInstagram/paso2-informacionSobreUso.png)
+![](https://i.ibb.co/B6zds95/paso2-informacion-Sobre-Uso.png)
 4. Continúa el proceso. Haz click en Crear Primera App
-![](fotosHerramientaInstagram/paso3-crearApp.png)
+![](https://i.ibb.co/nmV2t1k/paso3-crear-App.png)
 5. Rellena la información del formulario y haz click en Crear Identificador de la App.
-![](fotosHerramientaInstagram/paso4-informacionApp.png)
+![](https://i.ibb.co/MhdtqkC/paso4-informacion-App.png)
 
 ### ¿Qué hago si mi cuenta de Instagram no tiene un Facebook asociado?
 Si tu cuenta de Instagram no está enlazada con una cuenta de Facebook, deberás seguir los siguientes pasos para vincularla.
-![](fotosHerramientaInstagram/vincularFB.png)
+![](https://i.ibb.co/wJMvp97/vincular-FB.png)
 ### ¿Qué hago si mi cuenta de Instagram tiene un Facebook que no quiero que esté asociado?
 Si tu cuenta de Instagram no está enlazada con la cuenta de Facebook que quieres, deberás seguir los siguientes pasos para desvincularlas.
-![](fotosHerramientaInstagram/desvincularFB.png)
+![](https://i.ibb.co/zRMdvHm/desvincular-FB.png)
